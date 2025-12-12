@@ -6,7 +6,7 @@ class programmer:
         manoj .pin =pin
     @staticmethod
     def hello():
-            print("hello")
+            print("manoj")
 
 s=programmer("manoj",451200,78451)
 print(s.name,s.salary,s.pin)
